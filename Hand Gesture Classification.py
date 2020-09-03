@@ -7,7 +7,7 @@ import cv2
 import os
 import argparse
 import cv2
-import numpy as np
+#import numpy as np
 from scipy.spatial import distance
 from scipy.spatial.distance import euclidean
 from fastdtw import fastdtw
